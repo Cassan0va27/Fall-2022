@@ -1,0 +1,42 @@
+Data Models
+
+Database Schema : description of a Databases
+Schema Diagram
+Schema Construct
+
+
+Chapter 3 important, Chapter 4 not required(skippable), No Chapter 10
+
+Snapshot/Instance of Database
+
+Database state: content of database at a moment in time
+
+Valid state: Constraints should be followed by data example 9000 should not be in a column
+which has constraint 0 - 6000
+
+Schema is also called intension
+State is also called extension
+
+
+Program and data should exist independently
+
+Three Schema Architecture
+
+Mapping in schemas
+
+Data Independence
+
+DDL (Data definition language) --> Description of data like a dictionary COURSE: Course_name, Course_number,
+
+You can have Data table without keys
+
+Set Theory
+
+You can embed you SQL in Java or C++
+
+Active data dictionary
+Passive data dictionary
+
+
+
+

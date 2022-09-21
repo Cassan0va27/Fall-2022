@@ -1,0 +1,21 @@
+'implicit meaning'
+
+DBMS is a software that takes table and allows read/write on collections.
+- provides security
+- connecting tables
+
+Vantage db 
+
+Databases require cleaning at some point, especially when you combine databases.
+mini world relationships
+
+
+Verb between two nouns = relationship in Databases
+*********************Probably gonna skip Chapter 4*********************
+
+
+Slide 1-15 Simple database and relationships
+
+Relations and tables
+
+
